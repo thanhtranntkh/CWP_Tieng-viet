@@ -1,0 +1,1 @@
+Module is not configured, contact administrator. If you are server administrator, go to CWP admin area - "Plugins" - "Site.pro" to configure the module.
